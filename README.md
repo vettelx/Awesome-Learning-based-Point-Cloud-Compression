@@ -48,19 +48,54 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 ## Geometry
 #### Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 - **🧑‍🔬 Author**: Gexin Liu, Jiahao Zhu, Dandan Ding, Zhan Ma
-- **🏫 Affiliation**: Hangzhou Normal University,  Peking University
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
 - **🔗 Link**: [Code] [[IJCAI](https://www.ijcai.org/proceedings/2024/0242.pdf)]
 - **📝 Note**:
 
 #### GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 - **🧑‍🔬 Author**: Gexin Liu, Ruixiang Xue, Jiaxin Li, Dandan Ding, Zhan Ma
-- **🏫 Affiliation**: Hangzhou Normal University,  Peking University
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
 - **🔗 Link**: [[Code](https://github.com/3dpcc/GRNet)] [[TVCG](https://ieeexplore.ieee.org/document/10328911)]
 - **📝 Note**:
+
+#### Deep Geometry Post-Processing for Decompressed Point Clouds
+- **🧑‍🔬 Author**: Xiaoqing Fan, Ge Li, Dingquan Li, Yurui Ren, Wei Gao, Thomas H. Li
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [[Code](https://github.com/fxqzb/Deep-Geometry-Post-Processing)] [[ICME](https://ieeexplore.ieee.org/document/9859723)]
+- **📝 Note**:
+
+#### Point Cloud Geometry Prediction Across Spatial Scale using Deep Learning
+- **🧑‍🔬 Author**: Anique Akhtar, Wen Gao, Xiang Zhang, Li Li, Zhu Li, Shan Liu
+- **🏫 Affiliation**: University of Missouri-Kansas City, Tencent
+- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/document/9301804)]
+- **📝 Note**:
+ 
 
    
 
 ## Attribute
+#### Fast Inter-frame Motion Prediction for Compressed Dynamic Point Cloud Attribute Enhancement
+- **🧑‍🔬 Author**: Wang Liu, Wei Gao, Xingming Mu
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [Code] [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28162)]
+- **📝 Note**:
+
+#### Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
+- **🧑‍🔬 Author**: Junteng Zhang, Junzhe Zhang, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
+- **🔗 Link**: [Code] [[TVCG](https://ieeexplore.ieee.org/document/10470357)]
+- **📝 Note**:
+
+#### ARNet: Compression Artifact Reduction for Point Cloud Attribute
+- **🧑‍🔬 Author**: Junzhe Zhang, Junteng Zhang, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
+- **🔗 Link**: [[Code](https://github.com/3dpcc/ARNet)] [[arXiv:2209.08276](https://arxiv.org/abs/2209.08276)]
+- **📝 Note**:
+  
+
+
+
+
 
 ## Integrated
 
@@ -97,6 +132,14 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
 - **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10530090)]
 - **📝 Note**:
+
+#### Rate-Distortion Modeling for Bit Rate Constrained Point Cloud Compression
+- **🧑‍🔬 Author**: Pan Gao, Shengzhou Luo, Manoranjan Paul
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics, South China Normal University, Charles Sturt University
+- **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/document/9957096)]
+- **📝 Note**:
+  
+
 
 
 
