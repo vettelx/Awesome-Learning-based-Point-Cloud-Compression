@@ -19,7 +19,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 > This topic mainly contains articles focusing on point cloud analysis tasks, but the network structure can be used as a backbone in point cloud compression tasks, or the ideas can be borrowed by point cloud compression tasks.
   
 ---
-# 💡 Learning-based Lossless/Lossy Point Cloud Geometry/Attribute/Integrated Compression methods
+# 💡 Compression
 
 ## Geometry
 #### LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression 
@@ -36,39 +36,40 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: 🔥 (CVPR2024)
 
 ## Integrated
+#### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
+- **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
+- **🏫 Affiliation**: University of Duisburg-Essen,  Leibniz University Hannover
+- **🔗 Link**: [[Code]] [[arXiv:2408.00599](https://arxiv.org/abs/2408.00599)]
+- **📝 Note**: 
 
-# 💡 Post-processing / Quality Enhancement / Artifact Removal of Compressed Point Clouds
+# 💡 Quality Enhancement
 ## Geometry
-#### [0] No-reference Bitstream-based Perceptual Quality Assessment of Octree-Lifting Encoded 3D Point Clouds
-- **🧑‍🔬 Author**: Jianyu Lv, Honglei Su, Qi Liu, Hui Yuan
+#### [0] Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
+- **🧑‍🔬 Author**: Gexin Liu, Jiahao Zhu, Dandan Ding, Zhan Ma
 - **🏫 Affiliation**: Qingdao University,  Shandong University
-- **🔗 Link**: [[Code]] [[TVCG]([https://arxiv.org/abs/2405.03486](https://ieeexplore.ieee.org/abstract/document/10637704))]
-- **📝 Note**: (TVCG)
-
-
+- **🔗 Link**: [[Code]] [[IJCAI](https://www.ijcai.org/proceedings/2024/0242.pdf)]
+- **📝 Note**: 
 
 ## Attribute
 
 ## Integrated
 
-#### [0] GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
-- **🧑‍🔬 Author**: Yijun Yang, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu
-- **🏫 Affiliation**: The Chinese University of Hong Kong, Hong Kong,  Tsinghua University
-- **🔗 Link**: [Code] [[arXiv:2403.01446](https://arxiv.org/abs/2403.01446)]
-- **📝 Note**:
-
-# 💡 Rate Control / Quality Assessment of Point Clouds
-#### [0] No-reference Bitstream-based Perceptual Quality Assessment of Octree-Lifting Encoded 3D Point Clouds
+# 💡 Rate Control/Quality Assessment
+#### No-reference Bitstream-based Perceptual Quality Assessment of Octree-Lifting Encoded 3D Point Clouds
 - **🧑‍🔬 Author**: Jianyu Lv, Honglei Su, Qi Liu, Hui Yuan
 - **🏫 Affiliation**: Shenzhen Institutes of Advanced Technology,  Sun Yat-sen University, Shenzhen Polytechnic University, DeMonfort University
-- **🔗 Link**: [[Code]] [[TVCG]([https://arxiv.org/abs/2405.03486](https://ieeexplore.ieee.org/abstract/document/10637704))]
+- **🔗 Link**: [[Code]] [[TVCG](https://ieeexplore.ieee.org/abstract/document/10637704)]
 - **📝 Note**: 🔥 (TVCG)
 
-#### [1] Colored Point Cloud Quality Assessment Using Complementary Features in 3D and 2D Spaces
+#### Colored Point Cloud Quality Assessment Using Complementary Features in 3D and 2D Spaces
 - **🧑‍🔬 Author**: Mao Cui, Yun Zhang, Chunling Fan, Raouf Hamzaoui, Qinglan Li
 - **🏫 Affiliation**: Qingdao University,  Shandong University
-- **🔗 Link**: [[Code]] [[TMM]([https://arxiv.org/abs/2405.03486](https://ieeexplore.ieee.org/abstract/document/10637704))]
+- **🔗 Link**: [[Code]] [[TMM](https://ieeexplore.ieee.org/abstract/document/10637704)]
 - **📝 Note**: 🔥 (TMM)
+
+
+
+  
 
 
 # 💡 Point Cloud Analysis methods
