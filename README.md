@@ -10,8 +10,11 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 # 🚀 The scope of our collection
 
 💡 **Topic 1:** Learning-based Lossless/Lossy Point Cloud Geometry/Attribute/Integrated Compression methods.
+> 
 💡 **Topic 2:** Post-processing / Quality Enhancement / Artifact Removal of Compressed Point Clouds.
+> 
 💡 **Topic 3:** Rate Control / Quality Assessment of Point Clouds. 
+> 
 💡 **Topic 4:** Point Cloud Analysis methods
 > This topic mainly contains articles focusing on point cloud analysis tasks, but the network structure can be used as a backbone in point cloud compression tasks, or the ideas can be borrowed by point cloud compression tasks.
   
@@ -23,7 +26,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Yuqi Ye, Wei Gao
 - **🏫 Affiliation**: Peking University
 - **🔗 Link**: [[Code]] [[arXiv:2408.08682](https://arxiv.org/abs/2408.08682)]
-- **📝 Note**: 🔥 (S&P 2024)
+- **📝 Note**: 
 
 ## Attribute
 #### [1] MMA-Diffusion: MultiModal Attack on Diffusion Models
