@@ -1,8 +1,8 @@
 # Awesome-Learning-based-Point-Cloud-Compression
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Update Log](https://img.shields.io/badge/💡-Update_Log-informational.svg?style=flat)](README.md)
-[![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/issues)
-[![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/pulls)
+[![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/issues)
+[![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/pulls)
 
 A **continual** collection of papers related to Learning-based Point Cloud Compression.
 
@@ -12,10 +12,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 💡 **Topic 1:** Learning-based Lossless/Lossy Point Cloud Geometry/Attribute/Integrated Compression methods.
 > 
 💡 **Topic 2:** Post-processing / Quality Enhancement / Artifact Removal of Compressed Point Clouds.
+>
+💡 **Topic 3:** Point Cloud Compression for Machine. 
+>
+💡 **Topic 4:** Rate Control / Quality Assessment of Point Clouds. 
 > 
-💡 **Topic 3:** Rate Control / Quality Assessment of Point Clouds. 
-> 
-💡 **Topic 4:** Point Cloud Analysis methods
+💡 **Topic 5:** Point Cloud Analysis methods
 > This topic mainly contains articles focusing on point cloud analysis tasks, but the network structure can be used as a backbone in point cloud compression tasks, or the ideas can be borrowed by point cloud compression tasks.
   
 ---
@@ -25,7 +27,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression 
 - **🧑‍🔬 Author**: Yuqi Ye, Wei Gao
 - **🏫 Affiliation**: Peking University
-- **🔗 Link**: [[Code]] [[arXiv:2408.08682](https://arxiv.org/abs/2408.08682)]
+- **🔗 Link**: [Code] [[arXiv:2408.08682](https://arxiv.org/abs/2408.08682)]
 - **📝 Note**: 
 
 ## Attribute
@@ -39,7 +41,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
 - **🏫 Affiliation**: University of Duisburg-Essen,  Leibniz University Hannover
-- **🔗 Link**: [[Code]] [[arXiv:2408.00599](https://arxiv.org/abs/2408.00599)]
+- **🔗 Link**: [Code] [[arXiv:2408.00599](https://arxiv.org/abs/2408.00599)]
 - **📝 Note**: 
 
 # 💡 Quality Enhancement
@@ -47,18 +49,26 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### [0] Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 - **🧑‍🔬 Author**: Gexin Liu, Jiahao Zhu, Dandan Ding, Zhan Ma
 - **🏫 Affiliation**: Qingdao University,  Shandong University
-- **🔗 Link**: [[Code]] [[IJCAI](https://www.ijcai.org/proceedings/2024/0242.pdf)]
+- **🔗 Link**: [Code] [[IJCAI](https://www.ijcai.org/proceedings/2024/0242.pdf)]
 - **📝 Note**: 
 
 ## Attribute
 
 ## Integrated
 
-# 💡 Rate Control/Quality Assessment
+# 💡 PCC for machine
+#### Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor
+- **🧑‍🔬 Author**: Lei Liu, Zhihao Hu, Zhenghao Chen
+- **🏫 Affiliation**: Beihang University, School of Electrical and Information Engineering, The University of Sydney
+- **🔗 Link**: [Code] [[arXiv:2406.00791](https://arxiv.org/abs/2406.00791)]
+- **📝 Note**:  Scalable Coding for Machine
+
+# 💡 Quality Assessment / Rate Control
+## Quality Assessment
 #### No-reference Bitstream-based Perceptual Quality Assessment of Octree-Lifting Encoded 3D Point Clouds
 - **🧑‍🔬 Author**: Jianyu Lv, Honglei Su, Qi Liu, Hui Yuan
 - **🏫 Affiliation**: Shenzhen Institutes of Advanced Technology,  Sun Yat-sen University, Shenzhen Polytechnic University, DeMonfort University
-- **🔗 Link**: [[Code]] [[TVCG](https://ieeexplore.ieee.org/abstract/document/10637704)]
+- **🔗 Link**: [Code] [[TVCG](https://ieeexplore.ieee.org/abstract/document/10637704)]
 - **📝 Note**: 🔥 (TVCG)
 
 #### Colored Point Cloud Quality Assessment Using Complementary Features in 3D and 2D Spaces
@@ -66,6 +76,17 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Qingdao University,  Shandong University
 - **🔗 Link**: [[Code]] [[TMM](https://ieeexplore.ieee.org/abstract/document/10637704)]
 - **📝 Note**: 🔥 (TMM)
+- 
+## Rate Control
+#### Content-aware Rate Control for Geometry-based Point Cloud Compression
+- **🧑‍🔬 Author**: Junteng Zhang, Junzhe Zhang, Wenxi Ma, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
+- **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10530090)]
+- **📝 Note**:
+
+
+
+
 
 
 
