@@ -46,22 +46,36 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 
 # 💡 Quality Enhancement
 ## Geometry
-#### [0] Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
+#### Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 - **🧑‍🔬 Author**: Gexin Liu, Jiahao Zhu, Dandan Ding, Zhan Ma
-- **🏫 Affiliation**: Qingdao University,  Shandong University
+- **🏫 Affiliation**: Hangzhou Normal University,  Peking University
 - **🔗 Link**: [Code] [[IJCAI](https://www.ijcai.org/proceedings/2024/0242.pdf)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
+- **🧑‍🔬 Author**: Gexin Liu, Ruixiang Xue, Jiaxin Li, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Peking University
+- **🔗 Link**: [[Code](https://github.com/3dpcc/GRNet)] [[TVCG](https://ieeexplore.ieee.org/document/10328911)]
+- **📝 Note**:
+
+   
 
 ## Attribute
 
 ## Integrated
 
-# 💡 PCC for machine
+# 💡 PCC for Machine
 #### Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor
 - **🧑‍🔬 Author**: Lei Liu, Zhihao Hu, Zhenghao Chen
 - **🏫 Affiliation**: Beihang University, School of Electrical and Information Engineering, The University of Sydney
 - **🔗 Link**: [Code] [[arXiv:2406.00791](https://arxiv.org/abs/2406.00791)]
 - **📝 Note**:  Scalable Coding for Machine
+
+#### SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision
+- **🧑‍🔬 Author**: Liang Xie, Wei Gao, Huiming Zheng, Ge Li
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [Code] [[ICRA](https://ieeexplore.ieee.org/document/10610894)]
+- **📝 Note**: 
 
 # 💡 Quality Assessment / Rate Control
 ## Quality Assessment
