@@ -91,11 +91,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
 - **🔗 Link**: [[Code](https://github.com/3dpcc/ARNet)] [[arXiv:2209.08276](https://arxiv.org/abs/2209.08276)]
 - **📝 Note**:
+
+#### Attribute Artifacts Removal for Geometry-based Point Cloud Compression
+- **🧑‍🔬 Author**: Xihua Sheng; Li Li; Dong Liu; Zhiwei Xiong
+- **🏫 Affiliation**: University of Science and Technology of China
+- **🔗 Link**: [[Code]] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
+- **📝 Note**:
   
-
-
-
-
 
 ## Integrated
 
