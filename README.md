@@ -58,6 +58,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/3dpcc/GRNet)] [[TVCG](https://ieeexplore.ieee.org/document/10328911)]
 - **📝 Note**:
 
+#### Density-aware Swin Transformer for Compressed Point Cloud Geometry Artifacts Removal
+- **🧑‍🔬 Author**: Xiqian Yu, Xin Li, Hanxin Zhu, Zhibo Chen
+- **🏫 Affiliation**: Unviersity of Science and Technology of China
+- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402718)]
+- **📝 Note**:
+
 #### Deep Geometry Post-Processing for Decompressed Point Clouds
 - **🧑‍🔬 Author**: Xiaoqing Fan, Ge Li, Dingquan Li, Yurui Ren, Wei Gao, Thomas H. Li
 - **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
@@ -71,15 +77,32 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**:
  
 
-   
-
 ## Attribute
+
+#### Dependence-Based Coarse-to-Fine Approach for Reducing Distortion Accumulation in G-PCC Attribute Compression
+- **🧑‍🔬 Author**: Tian Guo, Hui Yuan, Raouf Hamzaoui, Xiaohui Wang, Lu Wang
+- **🏫 Affiliation**: Shandong University, De Montfort University
+- **🔗 Link**: [[Code]] [[ IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/abstract/document/10549850)]
+- **📝 Note**: traditional method
+
 #### Fast Inter-frame Motion Prediction for Compressed Dynamic Point Cloud Attribute Enhancement
 - **🧑‍🔬 Author**: Wang Liu, Wei Gao, Xingming Mu
 - **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
 - **🔗 Link**: [Code] [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28162)]
+- **📝 Note**: **Dynamic** Attribute Enhancement
+
+#### A Small-Scale Image U-Net-Based Color Quality Enhancement for Dense Point Cloud
+- **🧑‍🔬 Author**: Jinrui Xing; Hui Yuan; Wei Zhang; Tian Guo; Chen Chen
+- **🏫 Affiliation**: Shandong University, Xidian University
+- **🔗 Link**: [[Code](https://github.com/xjr998/SSIU)] [[IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10445207)]
 - **📝 Note**:
 
+#### Fast Graph-Based Denoising For Point Cloud Color Information
+- **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
+- **🏫 Affiliation**: University of Southern California, ‡ KDDI Research, Inc.
+- **🔗 Link**: [[Code]] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10446200)]
+- **📝 Note**: traditonal method
+  
 #### Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
 - **🧑‍🔬 Author**: Junteng Zhang, Junzhe Zhang, Dandan Ding, Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
@@ -92,6 +115,26 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/3dpcc/ARNet)] [[arXiv:2209.08276](https://arxiv.org/abs/2209.08276)]
 - **📝 Note**:
 
+#### GQE-Net: a graph-based quality enhancement network for point cloud color attribute
+- **🧑‍🔬 Author**: Jinrui Xing; Hui Yuan; Raouf Hamzaoui; Hao Liu; Junhui Hou
+- **🏫 Affiliation**: Shandong University, De Montfort University, Yantai University, City University of Hong Kong
+- **🔗 Link**: [[Code]([https://github.com/3dpcc/ARNet](https://github.com/xjr998/GQE-Net))] [[TIP](https://ieeexplore.ieee.org/abstract/document/10314418)]
+- **📝 Note**: learning-based graph-based
+
+
+#### Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity
+- **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
+- **🏫 Affiliation**: University of Southern California, KDDI Research, Inc.
+- **🔗 Link**: [[Code])] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10095488)]
+- **📝 Note**: traditional method, graph-based
+
+#### Wiener Filter-based Color Attribute Quality Enhancement for Geometry-based Point Cloud Compression
+- **🧑‍🔬 Author**: Jinrui Xing, Hui Yuan, Chen Chen, Wei Gao
+- **🏫 Affiliation**: Shandong University, Peking University
+- **🔗 Link**: [[Code])] [[APSIPAASC](https://ieeexplore.ieee.org/document/9979990)]
+- **📝 Note**: traditional method
+
+
 #### Attribute Artifacts Removal for Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Xihua Sheng; Li Li; Dong Liu; Zhiwei Xiong
 - **🏫 Affiliation**: University of Science and Technology of China
@@ -100,6 +143,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
   
 
 ## Integrated
+#### GPCC++: Enhanced Geometry-based Point Cloud Compression
+- **🧑‍🔬 Author**: Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
+- **🔗 Link**: [[Code]] [[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3613827)]
+- **📝 Note**: [[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
+
 
 # 💡 PCC for Machine
 #### Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor
