@@ -1,6 +1,5 @@
 # Awesome-Learning-based-Point-Cloud-Compression
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Update Log](https://img.shields.io/badge/💡-Update_Log-informational.svg?style=flat)](README.md)
 [![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/issues)
 [![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/pulls)
 
@@ -67,19 +66,19 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Density-aware Swin Transformer for Compressed Point Cloud Geometry Artifacts Removal
 - **🧑‍🔬 Author**: Xiqian Yu, Xin Li, Hanxin Zhu, Zhibo Chen
 - **🏫 Affiliation**: Unviersity of Science and Technology of China
-- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402718)]
+- **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402718)]
 - **📝 Note**:
 
 #### DANet: Density-Adaptive Network for Geometry-based Point Cloud Compression Artifacts Removal
 - **🧑‍🔬 Author**: Zetao Yang; Wei Gao; Xijing Lu
 - **🏫 Affiliation**: Peking Unviersity
-- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402662)]
+- **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402662)]
 - **📝 Note**:
 
 #### TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts
 - **🧑‍🔬 Author**: Xiaoyu Zhang; Guibiao Liao; Wei Gao; Ge Li
 - **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
-- **🔗 Link**: [[Code]] [[ICME](https://ieeexplore.ieee.org/document/9859853)]
+- **🔗 Link**: [Code] [[ICME](https://ieeexplore.ieee.org/document/9859853)]
 - **📝 Note**:
 
 #### Deep Geometry Post-Processing for Decompressed Point Clouds
@@ -91,7 +90,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Point Cloud Geometry Prediction Across Spatial Scale using Deep Learning
 - **🧑‍🔬 Author**: Anique Akhtar, Wen Gao, Xiang Zhang, Li Li, Zhu Li, Shan Liu
 - **🏫 Affiliation**: University of Missouri-Kansas City, Tencent
-- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/document/9301804)]
+- **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/document/9301804)]
 - **📝 Note**:
  
 
@@ -100,7 +99,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Dependence-Based Coarse-to-Fine Approach for Reducing Distortion Accumulation in G-PCC Attribute Compression
 - **🧑‍🔬 Author**: Tian Guo, Hui Yuan, Raouf Hamzaoui, Xiaohui Wang, Lu Wang
 - **🏫 Affiliation**: Shandong University, De Montfort University
-- **🔗 Link**: [[Code]] [[ IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/abstract/document/10549850)]
+- **🔗 Link**: [Code] [[ IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/abstract/document/10549850)]
 - **📝 Note**: traditional method
 
 #### Fast Inter-frame Motion Prediction for Compressed Dynamic Point Cloud Attribute Enhancement
@@ -118,7 +117,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Fast Graph-Based Denoising For Point Cloud Color Information
 - **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
 - **🏫 Affiliation**: University of Southern California, ‡ KDDI Research, Inc.
-- **🔗 Link**: [[Code]] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10446200)]
+- **🔗 Link**: [Code] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10446200)]
 - **📝 Note**: traditonal method
   
 #### Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
@@ -143,20 +142,20 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity
 - **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
 - **🏫 Affiliation**: University of Southern California, KDDI Research, Inc.
-- **🔗 Link**: [[Code])] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10095488)]
+- **🔗 Link**: [Code] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10095488)]
 - **📝 Note**: traditional method, graph-based
 
 #### Wiener Filter-based Color Attribute Quality Enhancement for Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Jinrui Xing, Hui Yuan, Chen Chen, Wei Gao
 - **🏫 Affiliation**: Shandong University, Peking University
-- **🔗 Link**: [[Code])] [[APSIPAASC](https://ieeexplore.ieee.org/document/9979990)]
+- **🔗 Link**: [Code] [[APSIPAASC](https://ieeexplore.ieee.org/document/9979990)]
 - **📝 Note**: traditional method
 
 
 #### Attribute Artifacts Removal for Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Xihua Sheng; Li Li; Dong Liu; Zhiwei Xiong
 - **🏫 Affiliation**: University of Science and Technology of China
-- **🔗 Link**: [[Code]] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
+- **🔗 Link**: [Code] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
 - **📝 Note**:
   
 
@@ -164,7 +163,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
-- **🔗 Link**: [[Code]] [[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3613827)]
+- **🔗 Link**: [Code] [[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3613827)]
 - **📝 Note**: [[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
 
 
@@ -187,13 +186,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Jianyu Lv, Honglei Su, Qi Liu, Hui Yuan
 - **🏫 Affiliation**: Shenzhen Institutes of Advanced Technology,  Sun Yat-sen University, Shenzhen Polytechnic University, DeMonfort University
 - **🔗 Link**: [Code] [[TVCG](https://ieeexplore.ieee.org/abstract/document/10637704)]
-- **📝 Note**: 🔥 (TVCG)
+- **📝 Note**:
 
 #### Colored Point Cloud Quality Assessment Using Complementary Features in 3D and 2D Spaces
 - **🧑‍🔬 Author**: Mao Cui, Yun Zhang, Chunling Fan, Raouf Hamzaoui, Qinglan Li
 - **🏫 Affiliation**: Qingdao University,  Shandong University
-- **🔗 Link**: [[Code]] [[TMM](https://ieeexplore.ieee.org/abstract/document/10637704)]
-- **📝 Note**: 🔥 (TMM)
+- **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/abstract/document/10637704)]
+- **📝 Note**: 
 - 
 ## Rate Control
 #### Content-aware Rate Control for Geometry-based Point Cloud Compression
