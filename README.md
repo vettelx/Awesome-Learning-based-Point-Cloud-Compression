@@ -28,7 +28,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Yuqi Ye, Wei Gao
 - **🏫 Affiliation**: Peking University
 - **🔗 Link**: [Code] [[arXiv:2408.08682](https://arxiv.org/abs/2408.08682)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression 
+- **🧑‍🔬 Author**: Mingyue Cui; Mingjian Feng; Junhua Long; Daosong Hu; Shuai Zhao; Kai Huang
+- **🏫 Affiliation**: Sun Yat-sen University
+- **🔗 Link**: [Code] [[ICRA](https://ieeexplore.ieee.org/abstract/document/10610640)]
+- **📝 Note**:
 
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
@@ -203,13 +209,11 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**:
   
 # 💡 Point Cloud Analysis methods
-
-#### [0] Watermark-based Detection and Attribution of AI-Generated Content
-- **🧑‍🔬 Author**:  Zhengyuan Jiang, Moyang Guo, Yuepeng Hu, Neil Zhenqiang Gong
-- **🏫 Affiliation**: Duke University
-- **🔗 Link**: [Code] [[arXiv:2404.04254](https://arxiv.org/abs/2404.04254)]
+#### Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy
+- **🧑‍🔬 Author**:  Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang
+- **🏫 Affiliation**: Shanghai Jiao Tong University, Zhejiang University
+- **🔗 Link**: [[Code](https://github.com/IRMVLab/Point-Mamba)] [[arXiv:2403.06467](https://arxiv.org/abs/2403.06467v2)]
 - **📝 Note**:
-
 
 ### 👍 Acknowledgement
 Thanks to the [Awesome-T2I-safety-Papers](https://github.com/SaFoLab-WISC/Awesome-T2I-safety-Papers).
