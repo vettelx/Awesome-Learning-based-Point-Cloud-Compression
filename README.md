@@ -31,12 +31,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: 
 
 ## Attribute
-#### [1] MMA-Diffusion: MultiModal Attack on Diffusion Models
-- **🧑‍🔬 Author**: Yijun Yang, Ruiyuan Gao, Xiaosen Wang, Tsung-Yi Ho, Nan Xu, Qiang Xu
-- **🏫 Affiliation**: The Chinese University of Hong Kong, Huawei Singular Security Lab, Institute of Automation, Chinese Academy of Sciences, Beijing Wenge Technology Co. Ltd
-- **🔗 Link**: [[Code](https://github.com/cure-lab/MMA-Diffusion)] [[arXiv:2311.17516](https://arxiv.org/abs/2311.17516)]
-- **📝 Note**: 🔥 (CVPR2024)
-
+#### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
+- **🧑‍🔬 Author**: Dat Thanh Nguyen, Daniel Zieger, Marc Stamminger, Andre Kaup
+- **🏫 Affiliation**: Chair of Multimedia Communications and Signal Processing, Chair of Visual Computing FAU
+- **🔗 Link**: [Code] [[ICIP](https://arxiv.org/abs/2408.10665)]
+- **📝 Note**: dynamic attribute
+  
 ## Integrated
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
@@ -62,6 +62,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Xiqian Yu, Xin Li, Hanxin Zhu, Zhibo Chen
 - **🏫 Affiliation**: Unviersity of Science and Technology of China
 - **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402718)]
+- **📝 Note**:
+
+#### DANet: Density-Adaptive Network for Geometry-based Point Cloud Compression Artifacts Removal
+- **🧑‍🔬 Author**: Zetao Yang; Wei Gao; Xijing Lu
+- **🏫 Affiliation**: Peking Unviersity
+- **🔗 Link**: [[Code]] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402662)]
+- **📝 Note**:
+
+#### TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts
+- **🧑‍🔬 Author**: Xiaoyu Zhang; Guibiao Liao; Wei Gao; Ge Li
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [[Code]] [[ICME](https://ieeexplore.ieee.org/document/9859853)]
 - **📝 Note**:
 
 #### Deep Geometry Post-Processing for Decompressed Point Clouds
@@ -190,17 +202,6 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/document/9957096)]
 - **📝 Note**:
   
-
-
-
-
-
-
-
-
-  
-
-
 # 💡 Point Cloud Analysis methods
 
 #### [0] Watermark-based Detection and Attribution of AI-Generated Content
