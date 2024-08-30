@@ -1,4 +1,4 @@
-# Awesome-Learning-based-Point-Cloud-Compression
+# Awesome Learning-based Point Cloud Compression
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/issues)
 [![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/vettelx/Awesome-Learning-based-Point-Cloud-Compression/pulls)
