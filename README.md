@@ -35,6 +35,19 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[ICRA](https://ieeexplore.ieee.org/abstract/document/10610640)]
 - **📝 Note**:
 
+#### Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds 
+- **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics
+- **🔗 Link**: [Code] [[arXiv:2408.10543](https://arxiv.org/abs/2408.10543)]
+- **📝 Note**:
+
+#### BMT-PCGC: Point Cloud Geometry Compression with Bidirectional Mask Transformer Entropy Model 
+- **🧑‍🔬 Author**: Monyneath Yim, Bing-Han Wu, Jui-Chiu Chiang
+- **🏫 Affiliation**: National Chung Cheng University Taiwan
+- **🔗 Link**: [Code] [[PCS](https://ieeexplore.ieee.org/abstract/document/10566435)]
+- **📝 Note**:
+
+
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
 - **🧑‍🔬 Author**: Dat Thanh Nguyen, Daniel Zieger, Marc Stamminger, Andre Kaup
@@ -192,8 +205,15 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Mao Cui, Yun Zhang, Chunling Fan, Raouf Hamzaoui, Qinglan Li
 - **🏫 Affiliation**: Qingdao University,  Shandong University
 - **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/abstract/document/10637704)]
-- **📝 Note**: 
-- 
+- **📝 Note**:
+
+#### 3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention
+- **🧑‍🔬 Author**: Linxia Zhu, Jun Cheng, Xu Wang, Honglei Su, Huan Yang, Hui Yuan, Jari Korhonen
+- **🏫 Affiliation**: Qingdao University, BYD Auto Industry Co., Ltd., Shenzhen University, Shandong University, University of
+Aberdeen
+- **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/abstract/document/10542438)]
+- **📝 Note**:
+  
 ## Rate Control
 #### Content-aware Rate Control for Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Junteng Zhang, Junzhe Zhang, Wenxi Ma, Dandan Ding, Zhan Ma
