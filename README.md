@@ -23,6 +23,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 # 💡 Compression
 
 ## Geometry
+
+#### Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds 
+- **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics
+- **🔗 Link**: [Code] [[arXiv:2408.10543](https://arxiv.org/abs/2408.10543)]
+- **📝 Note**:
+  
 #### LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression 
 - **🧑‍🔬 Author**: Yuqi Ye, Wei Gao
 - **🏫 Affiliation**: Peking University
@@ -30,16 +37,16 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**:
 
 #### A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression 
-- **🧑‍🔬 Author**: Mingyue Cui; Mingjian Feng; Junhua Long; Daosong Hu; Shuai Zhao; Kai Huang
+- **🧑‍🔬 Author**: Mingyue Cui, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao, Kai Huang
 - **🏫 Affiliation**: Sun Yat-sen University
 - **🔗 Link**: [Code] [[ICRA](https://ieeexplore.ieee.org/abstract/document/10610640)]
 - **📝 Note**:
 
-#### Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds 
-- **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao
-- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics
-- **🔗 Link**: [Code] [[arXiv:2408.10543](https://arxiv.org/abs/2408.10543)]
-- **📝 Note**:
+#### Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement
+- **🧑‍🔬 Author**: Hao Xu, Xi Zhang, Xiaolin Wu
+- **🏫 Affiliation**: McMaster University, Shanghai Jiao Tong University
+- **🔗 Link**: [Code] [[arXiv:2408.02966](https://arxiv.org/abs/2408.02966)]
+- **📝 Note**: 🔥 (ECCV 2024)
 
 #### BMT-PCGC: Point Cloud Geometry Compression with Bidirectional Mask Transformer Entropy Model 
 - **🧑‍🔬 Author**: Monyneath Yim, Bing-Han Wu, Jui-Chiu Chiang
@@ -47,6 +54,59 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[PCS](https://ieeexplore.ieee.org/abstract/document/10566435)]
 - **📝 Note**:
 
+#### Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction
+- **🧑‍🔬 Author**: Chang Sun, Hui Yuan, Xiaolong Mao, Xin Lu, Raouf Hamzaoui
+- **🏫 Affiliation**: Shandong University, De Montfort University
+- **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/document/10596661)]
+- **📝 Note**: 
+
+#### Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss
+- **🧑‍🔬 Author**: Chang Sun, Hui Yuan, Shuai Li, Xin Lu, Raouf Hamzaoui
+- **🏫 Affiliation**: Shandong University, De Montfort University
+- **🔗 Link**: [Code] [[IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/document/10440338)]
+- **📝 Note**:
+
+#### Multi-Space Point Geometry Compression With Progressive Relation-Aware Transformer
+- **🧑‍🔬 Author**: Wenxiang Shen, BaoYe Zhang, Hao Xu, XiaoHan Li, Jun Wu
+- **🏫 Affiliation**: Tongji University, University of Science and Technology of China, Fudan University
+- **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/abstract/document/10487884)]
+- **📝 Note**:
+
+#### NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence
+- **🧑‍🔬 Author**: Ruixiang Xue, Jiaxin Li, Tong Chen, Dandan Ding, Xun Cao, Zhan Ma
+- **🏫 Affiliation**: Nanjing University, Hangzhou Normal University
+- **🔗 Link**: [Code] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10446596)]
+- **📝 Note**:
+
+#### Surface-Constrained Progressive Feature Preserving Point Cloud Compression
+- **🧑‍🔬 Author**: Baoye Zhang, Wenxiang Shen, Bin Tan, Die Hu, Jun Wu
+- **🏫 Affiliation**: Tongji University, Jinggangshan University, Fudan University
+- **🔗 Link**: [[Code](https://github.com/zbaoye/SurfPCC)] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447976)]
+- **📝 Note**:
+
+#### ScanPCGC: Learning-Based Lossless Point Cloud Geometry Compression using Sequential Slice Representation
+- **🧑‍🔬 Author**: Jiangwei Deng, Yuhao An, Thomas H. Li, Shan Liu, Ge Li
+- **🏫 Affiliation**: Peking University, Tencent America
+- **🔗 Link**: [Code] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447944)]
+- **📝 Note**:
+
+#### Temporal Conditional Coding for Dynamic Point Cloud Geometry Compression
+- **🧑‍🔬 Author**: Bowen Huang; Davi Lazzarotto; Touradj Ebrahimi
+- **🏫 Affiliation**: Ecole Polytechnique Fed´ erale de Lausanne
+- **🔗 Link**: [Code] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447562)]
+- **📝 Note**:
+
+#### When Dynamic Neural Network Meets Point Cloud Compression: Computation-Aware Variable Rate and Checkerboard Context
+- **🧑‍🔬 Author**: Zhuozhen Yu, Wei Gao
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [Code] [[DCC 2024](https://ieeexplore.ieee.org/abstract/document/10533785)]
+- **📝 Note**:
+
+#### Semantic-Aware Visual Decomposition for Point Cloud Geometry Compression
+- **🧑‍🔬 Author**: Liang Xie, Wei Gao, Huiming Zheng, Hua Ye
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
+- **🔗 Link**: [Code] [[DCC 2024](https://ieeexplore.ieee.org/abstract/document/10533835)]
+- **📝 Note**:
 
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
@@ -54,6 +114,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Chair of Multimedia Communications and Signal Processing, Chair of Visual Computing FAU
 - **🔗 Link**: [Code] [[ICIP](https://arxiv.org/abs/2408.10665)]
 - **📝 Note**: dynamic attribute
+
+#### PCAC-GAN: A Sparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression 
+- **🧑‍🔬 Author**: Xiaolong Mao, Hui Yuan, Xin Lu, Raouf Hamzaoui, Wei Gao
+- **🏫 Affiliation**: 
+- **🔗 Link**: [Code] [[arXiv:2407.05677](https://arxiv.org/abs/2407.05677)]
+- **📝 Note**: Computational Visual Media, 2024
+
+#### Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model 
+- **🧑‍🔬 Author**: Ruishan Huang, Pengpeng Yu, Shaolin Liao, Fan Liang
+- **🏫 Affiliation**: Sun Yat-sen University, Peng Cheng Laboratory
+- **🔗 Link**: [Code] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10448389)]
+- **📝 Note**:
   
 ## Integrated
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
@@ -122,10 +194,16 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: **Dynamic** Attribute Enhancement
 
 #### A Small-Scale Image U-Net-Based Color Quality Enhancement for Dense Point Cloud
-- **🧑‍🔬 Author**: Jinrui Xing; Hui Yuan; Wei Zhang; Tian Guo; Chen Chen
+- **🧑‍🔬 Author**: Jinrui Xing, Hui Yuan, Wei Zhang, Tian Guo, Chen Chen
 - **🏫 Affiliation**: Shandong University, Xidian University
 - **🔗 Link**: [[Code](https://github.com/xjr998/SSIU)] [[IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10445207)]
 - **📝 Note**:
+
+#### MUSCON: Multi-scale Sparse Conv Learning for Point Cloud Attributes Deblocking
+- **🧑‍🔬 Author**: Muhammad Talha, Birendra Kathariya, Zhu Li, Geert Van Der Auwera
+- **🏫 Affiliation**: University Of Missouri-Kansas City, Qualcomm Technologies
+- **🔗 Link**: [Code] [[DCC 2024](https://ieeexplore.ieee.org/abstract/document/10533833)]
+- **📝 Note**: 
 
 #### Fast Graph-Based Denoising For Point Cloud Color Information
 - **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
