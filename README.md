@@ -335,7 +335,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Liang Xie, Wei Gao, Huiming Zheng, Ge Li
 - **🏫 Affiliation**: Peking University, Peng Cheng Laboratory
 - **🔗 Link**: [Code] [[ICRA](https://ieeexplore.ieee.org/document/10610894)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### Scalable Human-Machine Point Cloud Compression
+- **🧑‍🔬 Author**: Mateen Ulhaq, Ivan V. Bajić
+- **🏫 Affiliation**: Simon Fraser University
+- **🔗 Link**: [Code] [[arXiv:2402.12532](https://arxiv.org/abs/2402.12532)]
+- **📝 Note**:
 
 # 💡 Quality Assessment / Rate Control
 ## Quality Assessment
