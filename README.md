@@ -181,6 +181,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10446754)]
 - **📝 Note**:
 
+#### Scalable Point Cloud Attribute Compression
+- **🧑‍🔬 Author**: Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University, Nanjing University
+- **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/document/10313579)]
+- **📝 Note**: 09 November 2023
+
 ## Integrated
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
