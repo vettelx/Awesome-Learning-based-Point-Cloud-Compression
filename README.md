@@ -108,6 +108,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[DCC 2024](https://ieeexplore.ieee.org/abstract/document/10533835)]
 - **📝 Note**:
 
+#### Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
+- **🧑‍🔬 Author**: Kang You, Kai Liu, Li Yu, Pan Gao, Dandan Ding
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics, Nanjing University of Information Science and Technology, Hangzhou Normal University
+- **🔗 Link**: [[Code](https://github.com/I2-Multimedia-Lab/Pointsoup)] [[arXiv:2404.13550](https://arxiv.org/abs/2404.13550)]
+- **📝 Note**: 🔥 (IJCAI 2024)
+
 #### Point Cloud Compression via Constrained Optimal Transport 
 - **🧑‍🔬 Author**: Zezeng Li, Weimin Wang, Ziliang Wang, Na Lei
 - **🏫 Affiliation**: Dalian University of Technology
@@ -119,6 +125,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: InterDigital
 - **🔗 Link**: [Code] [[3DV](https://ieeexplore.ieee.org/abstract/document/10550634)]
 - **📝 Note**: 2024 International Conference on 3D Vision (3DV)
+
+#### Deep Learning-based Point Cloud Geometry Coding with Attention Models 
+- **🧑‍🔬 Author**: Mohammadreza Ghafari, André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira
+- **🏫 Affiliation**: 
+- **🔗 Link**: [Code] [[ISM](https://ieeexplore.ieee.org/abstract/document/10473490)]
+- **📝 Note**: 2023 IEEE International Symposium on Multimedia (ISM)
+
+#### Octree-Based Temporal-Spatial Context Entropy Model for LiDAR Point Cloud Compression 
+- **🧑‍🔬 Author**: Longhua Sun, Jin Wang, Yunhui Shi, Qing Zhu, Baocai Yin, Nam Ling
+- **🏫 Affiliation**: Beijing University of Technology, Santa Clara University
+- **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402785)]
+- **📝 Note**: 
 
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
@@ -132,6 +150,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: 
 - **🔗 Link**: [Code] [[arXiv:2407.05677](https://arxiv.org/abs/2407.05677)]
 - **📝 Note**: Computational Visual Media, 2024
+
+#### TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting
+- **🧑‍🔬 Author**: Zixi Guo, Yun Zhang, Linwei Zhu, Hanli Wang, Gangyi Jiang
+- **🏫 Affiliation**: Sun Yat-Sen University, Shenzhen Institute of Advanced Technology, Tongji University, Ningbo University
+- **🔗 Link**: [[Code](https://github.com/igizuxo/TSC-PCAC)] [[arXiv:2407.04284](https://arxiv.org/abs/2407.04284)]
+- **📝 Note**: 
+
+#### Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression
+- **🧑‍🔬 Author**: Kang You, Pan Gao, Zhan Ma
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics, Nanjing University
+- **🔗 Link**: [[Code](https://github.com/I2-Multimedia-Lab/PoLoPCAC)] [[arXiv:2404.06936](https://arxiv.org/abs/2404.06936)]
+- **📝 Note**:  
 
 #### Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model 
 - **🧑‍🔬 Author**: Ruishan Huang, Pengpeng Yu, Shaolin Liao, Fan Liang
@@ -150,13 +180,25 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: InterDigital, Inc., Universite Paris-Saclay
 - **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10446754)]
 - **📝 Note**:
-  
+
 ## Integrated
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
 - **🏫 Affiliation**: University of Duisburg-Essen,  Leibniz University Hannover
 - **🔗 Link**: [Code] [[arXiv:2408.00599](https://arxiv.org/abs/2408.00599)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering
+- **🧑‍🔬 Author**: Yueyu Hu, Ran Gong, Yao Wang
+- **🏫 Affiliation**: New York University, Tsinghua University
+- **🔗 Link**: [Code] [[arXiv:2406.05915](https://arxiv.org/abs/2406.05915)]
+- **📝 Note**:
+
+#### Point Cloud Compression with Implicit Neural Representations: A Unified Framework
+- **🧑‍🔬 Author**: Hongning Ruan, Yulin Shao, Qianqian Yang, Liang Zhao, Dusit Niyato
+- **🏫 Affiliation**: Zhejiang University, University of Macau, Nanyang Technological University
+- **🔗 Link**: [Code] [[arXiv:2405.11493](https://arxiv.org/abs/2405.11493)]
+- **📝 Note**: 🔥 INR-based 
 
 # 💡 Quality Enhancement
 ## Geometry
@@ -327,6 +369,12 @@ Aberdeen
 - **🧑‍🔬 Author**: Junteng Zhang, Junzhe Zhang, Wenxi Ma, Dandan Ding, Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
 - **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10530090)]
+- **📝 Note**:
+  
+#### Rate Control Optimization for Joint Geometry and Attribute Coding of LiDAR Point Clouds
+- **🧑‍🔬 Author**: Yang Wang, Wei Gao, Xingming Mu, Hang Yuan
+- **🏫 Affiliation**: Peking University 
+- **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402779)]
 - **📝 Note**:
 
 #### Rate-Distortion Modeling for Bit Rate Constrained Point Cloud Compression
