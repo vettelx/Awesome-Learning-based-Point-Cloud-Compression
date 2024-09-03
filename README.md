@@ -193,6 +193,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/document/10313579)]
 - **📝 Note**: 09 November 2023
 
+#### 3DAC: Learning Attribute Compression for Point Cloud
+- **🧑‍🔬 Author**: Guangchi Fang, Qingyong Hu, Hanyun Wang, Yiling Xu, Yulan Guo
+- **🏫 Affiliation**: Sun Yat-sen University, University of Oxford. Information Engineering University, Shanghai Jiaotong University, National University of Defense Technology
+- **🔗 Link**: [[Code](https://github.com/fatPeter/ThreeDAC)] [[CVPR](https://ieeexplore.ieee.org/document/9879523)]
+- **📝 Note**: 27 September 2022 (CVPR 2022)
+
 #### Folding-Based Compression Of Point Cloud Attributes
 - **🧑‍🔬 Author**: Maurice Quach, Giuseppe Valenzise, Frederic Dufaux
 - **🏫 Affiliation**: Université Paris-Saclay
