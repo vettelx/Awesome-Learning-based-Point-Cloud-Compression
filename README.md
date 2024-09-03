@@ -181,11 +181,23 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10446754)]
 - **📝 Note**:
 
+#### Progressive Coding for Deep Learning based Point Cloud Attribute Compression
+- **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
+- **🏫 Affiliation**: University of Duisburg-Essen
+- **🔗 Link**: [Code] [[MMVE](https://dl.acm.org/doi/10.1145/3652212.3652217)]
+- **📝 Note**: 15 April 2024
+
 #### Scalable Point Cloud Attribute Compression
 - **🧑‍🔬 Author**: Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University, Nanjing University
 - **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/document/10313579)]
 - **📝 Note**: 09 November 2023
+
+#### Folding-Based Compression Of Point Cloud Attributes
+- **🧑‍🔬 Author**: Maurice Quach, Giuseppe Valenzise, Frederic Dufaux
+- **🏫 Affiliation**: Université Paris-Saclay
+- **🔗 Link**: [[Code](https://github.com/mauriceqch/pcc_attr_folding)] [[ICIP](https://ieeexplore.ieee.org/document/9191180)]
+- **📝 Note**: ICIP 2020
 
 ## Integrated
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
