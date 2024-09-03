@@ -184,7 +184,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Progressive Coding for Deep Learning based Point Cloud Attribute Compression
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
 - **🏫 Affiliation**: University of Duisburg-Essen
-- **🔗 Link**: [Code] [[MMVE](https://dl.acm.org/doi/10.1145/3652212.3652217)]
+- **🔗 Link**: [[Code](https://github.com/mic-rud/ProgressivePCAC)] [[MMVE](https://dl.acm.org/doi/10.1145/3652212.3652217)]
 - **📝 Note**: 15 April 2024
 
 #### Scalable Point Cloud Attribute Compression
