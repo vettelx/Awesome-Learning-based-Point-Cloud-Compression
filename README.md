@@ -108,6 +108,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[DCC 2024](https://ieeexplore.ieee.org/abstract/document/10533835)]
 - **📝 Note**:
 
+#### Point Cloud Compression via Constrained Optimal Transport 
+- **🧑‍🔬 Author**: Zezeng Li, Weimin Wang, Ziliang Wang, Na Lei
+- **🏫 Affiliation**: Dalian University of Technology
+- **🔗 Link**: [[Code](https://github.com/cognaclee/PCC-COT)] [[arXiv:2403.08236](https://arxiv.org/abs/2403.08236)]
+- **📝 Note**:
+
+#### PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression 
+- **🧑‍🔬 Author**: Jiahao Pang, Kevin Bui, Dong Tian
+- **🏫 Affiliation**: InterDigital
+- **🔗 Link**: [Code] [[3DV](https://ieeexplore.ieee.org/abstract/document/10550634)]
+- **📝 Note**: 2024 International Conference on 3D Vision (3DV)
+
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
 - **🧑‍🔬 Author**: Dat Thanh Nguyen, Daniel Zieger, Marc Stamminger, Andre Kaup
@@ -125,6 +137,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Ruishan Huang, Pengpeng Yu, Shaolin Liao, Fan Liang
 - **🏫 Affiliation**: Sun Yat-sen University, Peng Cheng Laboratory
 - **🔗 Link**: [Code] [[ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10448389)]
+- **📝 Note**:
+
+#### Embedded Coding of Point Cloud Attributes 
+- **🧑‍🔬 Author**: Victor F. Figueiredo, Ricardo L. de Queiroz, Philip A. Cho, Lucas S. Lopes
+- **🏫 Affiliation**: University of Brasilia, Google
+- **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10474112)]
+- **📝 Note**:
+
+#### Reducing the Complexity of Normalizing Flow Architectures for Point Cloud Attribute Compression
+- **🧑‍🔬 Author**: Rodrigo B. Pinheiro, Jean-Eudes Marvie, Giuseppe Valenzise, Frédéric Dufaux
+- **🏫 Affiliation**: InterDigital, Inc., Universite Paris-Saclay
+- **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10446754)]
 - **📝 Note**:
   
 ## Integrated
@@ -290,6 +314,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Qingdao University, BYD Auto Industry Co., Ltd., Shenzhen University, Shandong University, University of
 Aberdeen
 - **🔗 Link**: [Code] [[TMM](https://ieeexplore.ieee.org/abstract/document/10542438)]
+- **📝 Note**:
+
+#### Zoom to Perceive Better: No-Reference Point Cloud Quality Assessment via Exploring Effective Multiscale Feature
+- **🧑‍🔬 Author**: Jilong Wang, Wei Gao, Ge Li
+- **🏫 Affiliation**:  Peng Cheng Laboratory, Peking University 
+- **🔗 Link**: [Code] [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10422856)]
 - **📝 Note**:
   
 ## Rate Control
