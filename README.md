@@ -341,7 +341,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Mateen Ulhaq, Ivan V. Bajić
 - **🏫 Affiliation**: Simon Fraser University
 - **🔗 Link**: [Code] [[arXiv:2402.12532](https://arxiv.org/abs/2402.12532)]
-- **📝 Note**:
+- **📝 Note**: 2024 PCS
 
 # 💡 Quality Assessment / Rate Control
 ## Quality Assessment
