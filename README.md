@@ -199,6 +199,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/fatPeter/ThreeDAC)] [[CVPR](https://ieeexplore.ieee.org/document/9879523)]
 - **📝 Note**: 27 September 2022 (CVPR 2022)
 
+#### Deep-PCAC: An End-to-End Deep Lossy Compression Framework for Point Cloud Attributes
+- **🧑‍🔬 Author**: Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong, Zhu Li, Feng Wu
+- **🏫 Affiliation**: University of Science and Technology of China, University of Missouri-Kansas City
+- **🔗 Link**: [[Code](https://github.com/xhsheng-ustc/Deep-PCAC)] [[TMM](https://ieeexplore.ieee.org/document/9447226)]
+- **📝 Note**: 04 June 2021
+
 #### Folding-Based Compression Of Point Cloud Attributes
 - **🧑‍🔬 Author**: Maurice Quach, Giuseppe Valenzise, Frederic Dufaux
 - **🏫 Affiliation**: Université Paris-Saclay
@@ -319,7 +325,6 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code]([https://github.com/3dpcc/ARNet](https://github.com/xjr998/GQE-Net))] [[TIP](https://ieeexplore.ieee.org/abstract/document/10314418)]
 - **📝 Note**: learning-based graph-based
 
-
 #### Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity
 - **🧑‍🔬 Author**: Ryosuke Watanabe; Keisuke Nonaka; Eduardo Pavez; Tatsuya Kobayashi; Antonio Ortega
 - **🏫 Affiliation**: University of Southern California, KDDI Research, Inc.
@@ -332,14 +337,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[APSIPAASC](https://ieeexplore.ieee.org/document/9979990)]
 - **📝 Note**: traditional method
 
-
 #### Attribute Artifacts Removal for Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Xihua Sheng; Li Li; Dong Liu; Zhiwei Xiong
 - **🏫 Affiliation**: University of Science and Technology of China
-- **🔗 Link**: [Code] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
-- **📝 Note**:
+- **🔗 Link**: [[Code](https://github.com/xhsheng-ustc/MS-GAT)] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
+- **📝 Note**: MS-GAT
   
-
 ## Integrated
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma
