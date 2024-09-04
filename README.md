@@ -199,6 +199,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/fatPeter/ThreeDAC)] [[CVPR](https://ieeexplore.ieee.org/document/9879523)]
 - **📝 Note**: 27 September 2022 (CVPR 2022)
 
+#### SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
+- **🧑‍🔬 Author**: Jianqiang Wang, Zhan Ma
+- **🏫 Affiliation**: Nanjing University
+- **🔗 Link**: [[Code](https://github.com/NJUVISION/SparsePCAC)] [[MIPR](https://ieeexplore.ieee.org/abstract/document/9874468)]
+- **📝 Note**: 08 Sep 2022, 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR)
+
 #### Deep-PCAC: An End-to-End Deep Lossy Compression Framework for Point Cloud Attributes
 - **🧑‍🔬 Author**: Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong, Zhu Li, Feng Wu
 - **🏫 Affiliation**: University of Science and Technology of China, University of Missouri-Kansas City
