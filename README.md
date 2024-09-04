@@ -138,6 +138,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402785)]
 - **📝 Note**: 29 January 2024
 
+#### 3QNet: 3D Point Cloud Geometry Quantization Compression Network 
+- **🧑‍🔬 Author**: Tianxin Huang, Jiangning Zhang, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, Yong Liu
+- **🏫 Affiliation**: Zhejiang University, Tencent youtu Lab, 
+- **🔗 Link**: [[Code](https://github.com/APRIL-ZJU/3QNet)] [[ToG](https://dl.acm.org/doi/abs/10.1145/3550454.3555481)]
+- **📝 Note**: 30 November 2022
+
+#### Density-preserving Deep Point Cloud Compression 
+- **🧑‍🔬 Author**: Yun He, Xinlin Ren, Danhang Tang, Yinda Zhang, Xiangyang Xue, Yanwei Fu
+- **🏫 Affiliation**: Beijing University of Technology, Santa Clara University
+- **🔗 Link**: [[Code](https://github.com/yunhe20/D-PCC)] [[arXiv:2204.12684](https://arxiv.org/abs/2204.12684)]
+- **📝 Note**: CVPR 2022
+
 #### MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models
 - **🧑‍🔬 Author**: Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun
 - **🏫 Affiliation**: Uber Advanced Technologies Group 2University of Waterloo 3University of Toronto
