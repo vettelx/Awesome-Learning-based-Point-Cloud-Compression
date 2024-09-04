@@ -136,7 +136,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Longhua Sun, Jin Wang, Yunhui Shi, Qing Zhu, Baocai Yin, Nam Ling
 - **🏫 Affiliation**: Beijing University of Technology, Santa Clara University
 - **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402785)]
-- **📝 Note**: 
+- **📝 Note**: 29 January 2024
+
+#### MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models
+- **🧑‍🔬 Author**: Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun
+- **🏫 Affiliation**: Uber Advanced Technologies Group 2University of Waterloo 3University of Toronto
+- **🔗 Link**: [Code] [[arXiv:2011.07590](https://arxiv.org/abs/2011.07590)]
+- **📝 Note**: NeurIPS 2020
 
 ## Attribute
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
