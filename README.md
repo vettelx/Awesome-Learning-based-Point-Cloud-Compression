@@ -8,7 +8,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 
 # 🚀 The scope of our collection
 
-💡 **Topic 1:** Learning-based Lossless/Lossy Point Cloud Geometry/Attribute/Integrated Compression methods.
+💡 **Topic 1:** Learning-based Point Cloud Geometry/Attribute/Unified Compression methods.
 > 
 💡 **Topic 2:** Post-processing / Quality Enhancement / Artifact Removal of Compressed Point Clouds.
 >
@@ -223,7 +223,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/mauriceqch/pcc_attr_folding)] [[ICIP](https://ieeexplore.ieee.org/document/9191180)]
 - **📝 Note**: ICIP 2020
 
-## Integrated
+## Unified
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
 - **🏫 Affiliation**: University of Duisburg-Essen,  Leibniz University Hannover
@@ -355,7 +355,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/xhsheng-ustc/MS-GAT)] [[TIP](https://ieeexplore.ieee.org/document/9767661)]
 - **📝 Note**: MS-GAT
   
-## Integrated
+## Unified
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 - **🧑‍🔬 Author**: Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
