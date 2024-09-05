@@ -394,6 +394,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[arXiv:2402.12532](https://arxiv.org/abs/2402.12532)]
 - **📝 Note**: 2024 PCS
 
+#### Learned Point Cloud Compression for Classification
+- **🧑‍🔬 Author**: Mateen Ulhaq, Ivan V. Bajić
+- **🏫 Affiliation**: Simon Fraser University
+- **🔗 Link**: [[Code](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification
+)] [[arXiv:2308.05959](https://arxiv.org/abs/2308.05959)]
+- **📝 Note**: IEEE MMSP 2023
+
 # 💡 Quality Assessment / Rate Control
 ## Quality Assessment
 #### No-reference Bitstream-based Perceptual Quality Assessment of Octree-Lifting Encoded 3D Point Clouds
