@@ -190,13 +190,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Embedded Coding of Point Cloud Attributes 
 - **🧑‍🔬 Author**: Victor F. Figueiredo, Ricardo L. de Queiroz, Philip A. Cho, Lucas S. Lopes
 - **🏫 Affiliation**: University of Brasilia, Google
-- **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10474112)]
+- **🔗 Link**: [Code] [[IEEE ](https://ieeexplore.ieee.org/abstract/document/10474112)]
 - **📝 Note**:
 
 #### Reducing the Complexity of Normalizing Flow Architectures for Point Cloud Attribute Compression
 - **🧑‍🔬 Author**: Rodrigo B. Pinheiro, Jean-Eudes Marvie, Giuseppe Valenzise, Frédéric Dufaux
 - **🏫 Affiliation**: InterDigital, Inc., Universite Paris-Saclay
-- **🔗 Link**: [Code] [[IEEE SPL](https://ieeexplore.ieee.org/abstract/document/10446754)]
+- **🔗 Link**: [Code] [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10446754)]
 - **📝 Note**:
 
 #### Progressive Coding for Deep Learning based Point Cloud Attribute Compression
