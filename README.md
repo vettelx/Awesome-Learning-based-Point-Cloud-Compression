@@ -120,6 +120,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/cognaclee/PCC-COT)] [[arXiv:2403.08236](https://arxiv.org/abs/2403.08236)]
 - **📝 Note**:
 
+#### patchDPCC: A Patchwise Deep Compression Framework for Dynamic Point Clouds
+- **🧑‍🔬 Author**: Zirui Pan, Mengbai Xiao, Xu Han, Dongxiao Yu, Guanghui Zhang, Yao Liu
+- **🏫 Affiliation**: Shandong University, Rutgers University
+- **🔗 Link**: [Code] [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28238)]
+- **📝 Note**: AAAI 2024 [[appendix](https://github.com/pzrsdu/patchDPCC)]
+
 #### PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression 
 - **🧑‍🔬 Author**: Jiahao Pang, Kevin Bui, Dong Tian
 - **🏫 Affiliation**: InterDigital
@@ -489,6 +495,12 @@ Aberdeen
 - **🏫 Affiliation**: Shanghai Jiao Tong University, Zhejiang University
 - **🔗 Link**: [[Code](https://github.com/IRMVLab/Point-Mamba)] [[arXiv:2403.06467](https://arxiv.org/abs/2403.06467v2)]
 - **📝 Note**:
+
+#### Dynamic Graph CNN for Learning on Point Clouds
+- **🧑‍🔬 Author**:  Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon
+- **🏫 Affiliation**: Massachusetts Institute of Technology, UC Berkeley/ICSI, Imperial College London/USI Lugano
+- **🔗 Link**: [[Code](https://github.com/WangYueFt/dgcnn)] [[TOG](https://dl.acm.org/doi/10.1145/3326362)]
+- **📝 Note**: DGCNN, 10 October 2019
 
 ### 👍 Acknowledgement
 Thanks to the [Awesome-T2I-safety-Papers](https://github.com/SaFoLab-WISC/Awesome-T2I-safety-Papers).
