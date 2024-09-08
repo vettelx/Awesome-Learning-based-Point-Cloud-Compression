@@ -252,7 +252,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🧑‍🔬 Author**: Hongning Ruan, Yulin Shao, Qianqian Yang, Liang Zhao, Dusit Niyato
 - **🏫 Affiliation**: Zhejiang University, University of Macau, Nanyang Technological University
 - **🔗 Link**: [Code] [[arXiv:2405.11493](https://arxiv.org/abs/2405.11493)]
-- **📝 Note**: 🔥 INR-based 
+- **📝 Note**: 🔥 INR-based
+
+#### YOGA: Yet Another Geometry-based Point Cloud Compressor
+- **🧑‍🔬 Author**: Junteng Zhang, Tong Chen, Dandan Ding, Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University, Nanjing University
+- **🔗 Link**: [Code] [[MM](https://dl.acm.org/doi/10.1145/3581783.3613847)]
+- **📝 Note**: 27 October 2023 [[website](https://3dpcc.github.io/publication/YOGAv1/)]
 
 # 💡 Quality Enhancement
 ## Geometry
