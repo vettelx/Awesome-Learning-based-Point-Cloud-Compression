@@ -138,6 +138,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402785)]
 - **📝 Note**: 29 January 2024
 
+#### Sparse Representation based Deep Residual Geometry Compression Network for Large-scale Point Clouds 
+- **🧑‍🔬 Author**: Pengpeng Yu, Dian Zuo, Yueer Huang, Ruishan Huang, Hanyun Wang, Yulan Guo, Fan Liang
+- **🏫 Affiliation**: Sun Yat-sen University, Information Engineering University, Peng Cheng Laboratory
+- **🔗 Link**: [[Code](https://github.com/pengpeng-yu/FastPCC)] [[ICME](https://ieeexplore.ieee.org/document/10220062)]
+- **📝 Note**: 25 August 2023 (FastPCC)
+
+#### Efficient Hierarchical Entropy Model for Learned Point Cloud Compression 
+- **🧑‍🔬 Author**: Rui Song, Chunyang Fu, Shan Liu, Ge Li
+- **🏫 Affiliation**: Peking University, Tencent America
+- **🔗 Link**: [Code] [[CVPR](https://ieeexplore.ieee.org/document/10205051)]
+- **📝 Note**: 22 August 2023
+  
 #### 3QNet: 3D Point Cloud Geometry Quantization Compression Network 
 - **🧑‍🔬 Author**: Tianxin Huang, Jiangning Zhang, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, Yong Liu
 - **🏫 Affiliation**: Zhejiang University, Tencent youtu Lab, 
@@ -149,6 +161,24 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Beijing University of Technology, Santa Clara University
 - **🔗 Link**: [[Code](https://github.com/yunhe20/D-PCC)] [[arXiv:2204.12684](https://arxiv.org/abs/2204.12684)]
 - **📝 Note**: CVPR 2022
+
+#### OctAttention: Octree-Based Large-Scale Contexts Model for Point Cloud Compression
+- **🧑‍🔬 Author**: Chunyang Fu, Ge Li, Rui Song, Wei Gao, Shan Liu
+- **🏫 Affiliation**: Peking University, Peng Cheng Laboratory, Tencent America
+- **🔗 Link**: [[Code](https://github.com/zb12138/OctAttention)] [[arXiv:2202.06028](https://arxiv.org/abs/2202.06028)]
+- **📝 Note**: AAAI 2022
+
+#### VoxelContext-Net: An Octree based Framework for Point Cloud Compression
+- **🧑‍🔬 Author**: Zizheng Que, Guo Lu, Dong Xu
+- **🏫 Affiliation**: Beihang University, Beijing Institute of Technology, University of Sydney
+- **🔗 Link**: [Code] [[CVPR](https://ieeexplore.ieee.org/document/9578231)]
+- **📝 Note**: CVPR 2021
+
+#### OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression
+- **🧑‍🔬 Author**: Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, Raquel Urtasun
+- **🏫 Affiliation**: Uber Advanced Technologies Group, University of Waterloo, University of Toronto
+- **🔗 Link**: [Code] [[CVPR](https://ieeexplore.ieee.org/document/9157381/)]
+- **📝 Note**: CVPR 2020
 
 #### MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models
 - **🧑‍🔬 Author**: Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun
