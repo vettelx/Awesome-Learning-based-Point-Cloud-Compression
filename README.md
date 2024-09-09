@@ -155,7 +155,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🏫 Affiliation**: Peking University, Tencent America
 - **🔗 Link**: [Code] [[CVPR](https://ieeexplore.ieee.org/document/10205051)]
 - **📝 Note**: 22 August 2023
-  
+
+#### Sparse Tensor-Based Multiscale Representation for Point Cloud Geometry Compression
+- **🧑‍🔬 Author**: Jianqiang Wang, Dandan Ding, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
+- **🏫 Affiliation**: Nanjing University, HangZhou Normal University, University of Missouri, Jiangsu Longyuan Zhenhua Marine Engineering Co., LTD.
+- **🔗 Link**: [Code] [[TPAMI](https://ieeexplore.ieee.org/document/9968173)]
+- **📝 Note**: 🔥 SparsePCGC (01 December 2022)
+
 #### 3QNet: 3D Point Cloud Geometry Quantization Compression Network 
 - **🧑‍🔬 Author**: Tianxin Huang, Jiangning Zhang, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, Yong Liu
 - **🏫 Affiliation**: Zhejiang University, Tencent youtu Lab, 
