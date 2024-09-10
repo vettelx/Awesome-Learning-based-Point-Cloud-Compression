@@ -144,6 +144,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402785)]
 - **📝 Note**: 29 January 2024
 
+#### OctPCGC-Net: Learning Octree-Structured Context Entropy Model for Point Cloud Geometry Compression 
+- **🧑‍🔬 Author**: Xinjie Wang, Hanyun Wang, Ke Xu, Jianwei Wan, Yulan Guo
+- **🏫 Affiliation**: 
+- **🔗 Link**: [Code] [[PRCV](https://dl.acm.org/doi/abs/10.1007/978-981-99-8432-9_28)]
+- **📝 Note**: 24 December 2023
+  
 #### Sparse Representation based Deep Residual Geometry Compression Network for Large-scale Point Clouds 
 - **🧑‍🔬 Author**: Pengpeng Yu, Dian Zuo, Yueer Huang, Ruishan Huang, Hanyun Wang, Yulan Guo, Fan Liang
 - **🏫 Affiliation**: Sun Yat-sen University, Information Engineering University, Peng Cheng Laboratory
