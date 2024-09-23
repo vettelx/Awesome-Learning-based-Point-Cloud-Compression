@@ -284,6 +284,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: ICIP 2020
 
 ## Unified
+#### The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine
+- **🧑‍🔬 Author**: André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira
+- **🏫 Affiliation**: Instituto de Telecomunicações, Lisbon, Portugal, ESTG, Politécnico de Leiria, Leiria, Portugal, Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal
+- **🔗 Link**: [Code] [[arXiv:2409.08130](https://arxiv.org/abs/2409.08130)]
+- **📝 Note**: 🔥JPEG Standard
+
 #### Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control
 - **🧑‍🔬 Author**: Michael Rudolph, Aron Riemenschneider, Amr Rizk
 - **🏫 Affiliation**: University of Duisburg-Essen,  Leibniz University Hannover
