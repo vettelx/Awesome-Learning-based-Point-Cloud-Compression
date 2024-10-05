@@ -360,7 +360,6 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
  
 
 ## Attribute
-
 #### Dependence-Based Coarse-to-Fine Approach for Reducing Distortion Accumulation in G-PCC Attribute Compression
 - **🧑‍🔬 Author**: Tian Guo, Hui Yuan, Raouf Hamzaoui, Xiaohui Wang, Lu Wang
 - **🏫 Affiliation**: Shandong University, De Montfort University
@@ -436,6 +435,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 
 
 # 💡 PCC for Machine
+#### Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection
+- **🧑‍🔬 Author**: Pengxi Zeng, Alberto Presta, Jonah Reinis, Dinesh Bharadia, Hang Qiu, Pamela Cosman
+- **🏫 Affiliation**: UC San Diego, University of Turin, Italy，Case Western Reserve University, University of California Riverside
+- **🔗 Link**: [Code] [[arXiv:2410.00582](https://arxiv.org/abs/2410.00582)]
+- **📝 Note**:  
+
 #### Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor
 - **🧑‍🔬 Author**: Lei Liu, Zhihao Hu, Zhenghao Chen
 - **🏫 Affiliation**: Beihang University, School of Electrical and Information Engineering, The University of Sydney
