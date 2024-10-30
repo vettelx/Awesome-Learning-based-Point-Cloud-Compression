@@ -205,6 +205,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: NeurIPS 2020
 
 ## Attribute
+#### Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds 
+- **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao, Manoranjan Paul
+- **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics, Charles Sturt University
+- **🔗 Link**: [[Code](https://github.com/I2-Multimedia-Lab/Att2CPC)] [[IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE](https://arxiv.org/abs/2410.17823)]
+- **📝 Note**:
+
 #### End-to-end learned Lossy Dynamic Point Cloud Attribute Compression 
 - **🧑‍🔬 Author**: Dat Thanh Nguyen, Daniel Zieger, Marc Stamminger, Andre Kaup
 - **🏫 Affiliation**: Chair of Multimedia Communications and Signal Processing, Chair of Visual Computing FAU
