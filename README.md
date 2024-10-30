@@ -23,6 +23,11 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 # 💡 Compression
 
 ## Geometry
+#### Mamba-PCGC: Mamba-Based Point Cloud Geometry Compression 
+- **🧑‍🔬 Author**: Monyneath Yim, Jui-Chiu Chiang
+- **🏫 Affiliation**: National Chung Cheng University
+- **🔗 Link**: [Code] [[ICIP](https://ieeexplore.ieee.org/abstract/document/10647269)]
+- **📝 Note**:
 
 #### Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds 
 - **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao
@@ -290,6 +295,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: ICIP 2020
 
 ## Unified
+#### DeepPCC: Learned Lossy Point Cloud Compression
+- **🧑‍🔬 Author**: Junzhe Zhang , Gexin Liu , Junteng Zhang , Dandan Ding , Zhan Ma
+- **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
+- **🔗 Link**: [[Code](https://github.com/3dpcc/DeepPCC)] [[IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/abstract/document/10714474)]
+- **📝 Note**:
+
 #### The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine
 - **🧑‍🔬 Author**: André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira
 - **🏫 Affiliation**: Instituto de Telecomunicações, Lisbon, Portugal, ESTG, Politécnico de Leiria, Leiria, Portugal, Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal
