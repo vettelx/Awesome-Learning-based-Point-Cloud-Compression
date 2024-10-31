@@ -23,6 +23,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 # 💡 Compression
 
 ## Geometry
+#### Adaptive Downsampling and Spatial Upconversion for Point Cloud Compression
+- **🧑‍🔬 Author**: Yichen Zhou, Xinfeng Zhang, Yingzhan Xu, Kai Zhang, Li Zhang
+- **🏫 Affiliation**: University of Chinese Academy of Sciences, Bytedance Inc.
+- **🔗 Link**: [Code] [[ICIP](https://ieeexplore.ieee.org/abstract/document/10648190)]
+- **📝 Note**:
+
+#### Context-Adaptive Entropy Model With Adapters For Lossless Point Cloud Geometry Compression
+- **🧑‍🔬 Author**: Yutong Zhang, Wenbo Zhao, Daxin Li, Junjun Jiang, Xianming Liu
+- **🏫 Affiliation**: Harbin Institute of Technology
+- **🔗 Link**: [Code] [[ICIP](https://ieeexplore.ieee.org/abstract/document/10647570)]
+- **📝 Note**:
+
 #### Mamba-PCGC: Mamba-Based Point Cloud Geometry Compression 
 - **🧑‍🔬 Author**: Monyneath Yim, Jui-Chiu Chiang
 - **🏫 Affiliation**: National Chung Cheng University
@@ -210,6 +222,12 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: NeurIPS 2020
 
 ## Attribute
+#### ResNeRF-PCAC: Super Resolving Residual Learning NeRF for High Efficiency Point Cloud Attributes Coding 
+- **🧑‍🔬 Author**: Sajid Umair, Birendra Kathariya, Zhu Li, Anique Akhtar, Geert Van der Auwera
+- **🏫 Affiliation**: University of Missouri-Kansas City, Qualcomm Technologies Inc.
+- **🔗 Link**: [Code] [[ICIP]([https://arxiv.org/abs/2410.17823](https://ieeexplore.ieee.org/abstract/document/10648090)]
+- **📝 Note**:
+
 #### Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds 
 - **🧑‍🔬 Author**: Kai Liu, Kang You, Pan Gao, Manoranjan Paul
 - **🏫 Affiliation**: Nanjing University of Aeronautics and Astronautics, Charles Sturt University
@@ -295,6 +313,18 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **📝 Note**: ICIP 2020
 
 ## Unified
+#### A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
+- **🧑‍🔬 Author**: Jianqiang Wang, Ruixiang Xue, Jiaxin Li, Dandan Ding, Yi Lin, Zhan Ma
+- **🏫 Affiliation**: Nanjing University, Hangzhou Normal University, Fudan University
+- **🔗 Link**: [Code] [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)]
+- **📝 Note**: 🔥 TPAMI
+
+#### A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
+- **🧑‍🔬 Author**: Jianqiang Wang, Ruixiang Xue, Jiaxin Li, Dandan Ding, Yi Lin, Zhan Ma
+- **🏫 Affiliation**: Nanjing University, Hangzhou Normal University, Fudan University
+- **🔗 Link**: [Code] [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682566)]
+- **📝 Note**: 🔥 TPAMI
+
 #### DeepPCC: Learned Lossy Point Cloud Compression
 - **🧑‍🔬 Author**: Junzhe Zhang , Gexin Liu , Junteng Zhang , Dandan Ding , Zhan Ma
 - **🏫 Affiliation**: Hangzhou Normal University,  Nanjing University
@@ -375,8 +405,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [Code] [[VCIP](https://ieeexplore.ieee.org/document/9301804)]
 - **📝 Note**:
  
-
 ## Attribute
+#### TSF-NET3D: TSF-NET for 3D Point Cloud Attribute Compression Artifacts Removal
+- **🧑‍🔬 Author**: Birendra Kathariya, Zhu Li, Geert Van Der Auwera
+- **🏫 Affiliation**: University of Missouri-Kansas City, Qualcomm Technologies Inc.
+- **🔗 Link**: [Code] [[ICIP](https://ieeexplore.ieee.org/abstract/document/10648101)]
+- **📝 Note**:
+
 #### Dependence-Based Coarse-to-Fine Approach for Reducing Distortion Accumulation in G-PCC Attribute Compression
 - **🧑‍🔬 Author**: Tian Guo, Hui Yuan, Raouf Hamzaoui, Xiaohui Wang, Lu Wang
 - **🏫 Affiliation**: Shandong University, De Montfort University
