@@ -12,11 +12,13 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 > 
 💡 **Topic 2:** Post-processing / Quality Enhancement / Artifact Removal of Compressed Point Clouds.
 >
-💡 **Topic 3:** Point Cloud Compression for Machine. 
+💡 **Topic 3:** Point Cloud Compression for Machine
 >
-💡 **Topic 4:** Rate Control / Quality Assessment of Point Clouds. 
+💡 **Topic 4:** Point Cloud Compression for Rendering
+>
+💡 **Topic 5:** Rate Control / Quality Assessment of Point Clouds. 
 > 
-💡 **Topic 5:** Point Cloud Analysis methods
+💡 **Topic 6:** Point Cloud Analysis methods
 > This topic mainly contains articles focusing on point cloud analysis tasks, but the network structure can be used as a backbone in point cloud compression tasks, or the ideas can be borrowed by point cloud compression tasks.
   
 ---
@@ -517,6 +519,19 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 - **🔗 Link**: [[Code](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification
 )] [[arXiv:2308.05959](https://arxiv.org/abs/2308.05959)]
 - **📝 Note**: IEEE MMSP 2023
+
+# 💡 PCC for Rendering
+#### Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer
+- **🧑‍🔬 Author**: Xiao Huo, Junhui Hou, Shuai Wan, Fuzheng Yang
+- **🏫 Affiliation**: Xidian University, City University of Hong Kong, Northwestern Polytechnical University
+- **🔗 Link**: [Code] [[arXiv:2411.07899](https://www.arxiv.org/abs/2411.07899)]
+- **📝 Note**:
+
+#### Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering
+- **🧑‍🔬 Author**: Yueyu Hu, Ran Gong, Yao Wang
+- **🏫 Affiliation**:  New York University
+- **🔗 Link**: [Code] [[arXiv:2406.05915](https://arxiv.org/abs/2406.05915)]
+- **📝 Note**:
 
 # 💡 Quality Assessment / Rate Control
 ## Quality Assessment
