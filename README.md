@@ -64,7 +64,7 @@ A **continual** collection of papers related to Learning-based Point Cloud Compr
 #### Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement
 - **🧑‍🔬 Author**: Hao Xu, Xi Zhang, Xiaolin Wu
 - **🏫 Affiliation**: McMaster University, Shanghai Jiao Tong University
-- **🔗 Link**: [Code] [[arXiv:2408.02966](https://arxiv.org/abs/2408.02966)]
+- **🔗 Link**: [[Code](https://github.com/hxu160/CRCIR_for_PCGC)] [[arXiv:2408.02966](https://arxiv.org/abs/2408.02966)]
 - **📝 Note**: 🔥 (ECCV 2024)
 
 #### BMT-PCGC: Point Cloud Geometry Compression with Bidirectional Mask Transformer Entropy Model 
